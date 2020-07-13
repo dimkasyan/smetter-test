@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/smetter-test/static/css/main.7c721dbc.chunk.css",
+    "main.js": "/smetter-test/static/js/main.37cbf86c.chunk.js",
+    "main.js.map": "/smetter-test/static/js/main.37cbf86c.chunk.js.map",
+    "runtime-main.js": "/smetter-test/static/js/runtime-main.d3af36ac.js",
+    "runtime-main.js.map": "/smetter-test/static/js/runtime-main.d3af36ac.js.map",
+    "static/css/2.bba02b15.chunk.css": "/smetter-test/static/css/2.bba02b15.chunk.css",
+    "static/js/2.f0477e5f.chunk.js": "/smetter-test/static/js/2.f0477e5f.chunk.js",
+    "static/js/2.f0477e5f.chunk.js.map": "/smetter-test/static/js/2.f0477e5f.chunk.js.map",
+    "index.html": "/smetter-test/index.html",
+    "precache-manifest.271573fbdae30160f4d6c63faecfa762.js": "/smetter-test/precache-manifest.271573fbdae30160f4d6c63faecfa762.js",
+    "service-worker.js": "/smetter-test/service-worker.js",
+    "static/css/2.bba02b15.chunk.css.map": "/smetter-test/static/css/2.bba02b15.chunk.css.map",
+    "static/css/main.7c721dbc.chunk.css.map": "/smetter-test/static/css/main.7c721dbc.chunk.css.map",
+    "static/js/2.f0477e5f.chunk.js.LICENSE.txt": "/smetter-test/static/js/2.f0477e5f.chunk.js.LICENSE.txt",
+    "static/media/diskette.svg": "/smetter-test/static/media/diskette.4adb0e01.svg",
+    "static/media/loader.7ca482f2.svg": "/smetter-test/static/media/loader.7ca482f2.svg",
+    "static/media/notifications.css": "/smetter-test/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3af36ac.js",
+    "static/css/2.bba02b15.chunk.css",
+    "static/js/2.f0477e5f.chunk.js",
+    "static/css/main.7c721dbc.chunk.css",
+    "static/js/main.37cbf86c.chunk.js"
+  ]
+}
